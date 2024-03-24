@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Floyd's Tortoise and Hare algorithm
     int findDuplicate(vector<int>& nums) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
