@@ -1,6 +1,9 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int slow = nums[0], fast = nums[0];
         do {
             slow = nums[slow];
