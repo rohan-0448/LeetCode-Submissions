@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // we can get the maximum product from the product of two negative numbers too.
     int maxProduct(vector<int>& nums) {
         int prod1 = nums[0],prod2 = nums[0],result = nums[0];
     
