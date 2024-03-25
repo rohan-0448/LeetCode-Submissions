@@ -16,6 +16,23 @@ public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size(), n = obstacleGrid[0].size();
         vector<vector<int>> dp(m, vector<int> (n, -1));
-        return f(obstacleGrid, dp, m-1, n-1);
+        
+        // Tabulation Method
+        for(int x = 0; x < m; x++){
+            for(int y = 0; y < n; y++){
+                if(obstacleGrid[x][y] == 1) dp[x][y] = 0;
+                else if(x == 0 && y == 0) dp[x][y] = 1;
+                else {
+                    int top = 0, left = 0;
+                    if(x > 0) top = dp[x-1][y];
+                    if(y > 0) left = dp[x][y-1];
+                    
+                    dp[x][y] = top + left;
+                }
+            }
+        }
+        
+        return abs(dp[m-1][n-1]);
+        // return f(obstacleGrid, dp, m-1, n-1);
     }
 };
