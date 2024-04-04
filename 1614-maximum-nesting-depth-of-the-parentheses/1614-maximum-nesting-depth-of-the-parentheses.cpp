@@ -5,9 +5,9 @@ public:
         int p = 0, max_p = 0;
         // unordered_map<char, int> mp;
         
-        for(int i=0; i<s.length(); i++){
-            if(s[i] == '(') p++;
-            else if(s[i] == ')') p--;
+        for(auto i: s){
+            if(i == '(') p++;
+            else if(i == ')') p--;
             // else if(s[i] != '+' || s[i] != '*' || s[i] != '-' || s[i] != '/') mp[s[i]] = p;
             max_p = max(max_p, p);
         }
