@@ -4,6 +4,7 @@
 | [1044-find-common-characters](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1044-find-common-characters) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0648-replace-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0648-replace-words) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 
 
 # Hash Table
@@ -29,3 +30,11 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0648-replace-words) |
+# Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
