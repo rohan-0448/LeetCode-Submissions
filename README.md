@@ -7,11 +7,13 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [0525-contiguous-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 
 
 # Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1044-find-common-characters) |
@@ -47,3 +49,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
+# Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0525-contiguous-array) |
