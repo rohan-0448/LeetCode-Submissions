@@ -7,12 +7,5 @@ public:
         int ans = 0;
         for(int i=0; i<seats.size(); i++) ans += abs(seats[i]-students[i]);
         return ans;
-        sort(seats.begin(), seats.end());
-        sort(students.begin(), students.end());
-        int moves = 0;
-        for( int i=0; i<seats.size(); i++)
-            moves += abs(seats[i] - students[i]);
-        
-        return moves;
     }
 };
