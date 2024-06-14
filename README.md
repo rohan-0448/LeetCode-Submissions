@@ -11,6 +11,7 @@
 | [0523-continuous-subarray-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 
 
 # Hash Table
@@ -32,12 +33,14 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -66,3 +69,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
+# Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
