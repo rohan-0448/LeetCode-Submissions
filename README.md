@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
+| [0330-patching-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0330-patching-array) |
 
 
 # Hash Table
@@ -33,6 +34,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
