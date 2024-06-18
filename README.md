@@ -14,6 +14,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0330-patching-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0330-patching-array) |
+| [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 
 
 # Hash Table
@@ -36,6 +37,7 @@
 | ------- |
 | [0330-patching-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -44,6 +46,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -55,6 +58,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +67,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 # Prefix Sum
 |  |
 | ------- |
