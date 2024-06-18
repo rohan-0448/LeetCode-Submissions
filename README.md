@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 # Divide and Conquer
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 # Prefix Sum
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 # Counting
 |  |
 | ------- |
