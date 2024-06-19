@@ -15,6 +15,7 @@
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0330-patching-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 
 
 # Hash Table
@@ -60,6 +61,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Divide and Conquer
 |  |
 | ------- |
