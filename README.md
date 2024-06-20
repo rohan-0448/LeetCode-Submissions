@@ -16,6 +16,7 @@
 | [0330-patching-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 
 
 # Hash Table
@@ -50,6 +51,7 @@
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1675-magnetic-force-between-two-balls](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -62,6 +64,7 @@
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 # Divide and Conquer
 |  |
 | ------- |
