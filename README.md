@@ -18,6 +18,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 
 
 # Hash Table
@@ -30,6 +31,7 @@
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1044-find-common-characters) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # String
 |  |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Heap (Priority Queue)
 |  |
