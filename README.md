@@ -106,3 +106,19 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1138-grumpy-bookstore-owner) |
+# Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
