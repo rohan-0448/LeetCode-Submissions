@@ -21,11 +21,13 @@
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1138-grumpy-bookstore-owner) |
 | [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
+| [0229-majority-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 
 
 # Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
@@ -96,6 +99,7 @@
 # Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
