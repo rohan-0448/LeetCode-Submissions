@@ -20,6 +20,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1138-grumpy-bookstore-owner) |
+| [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 
 
 # Hash Table
@@ -118,7 +119,12 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+| [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 # Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+# Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
