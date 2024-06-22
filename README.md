@@ -22,6 +22,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1138-grumpy-bookstore-owner) |
 | [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [0229-majority-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 
 
 # Hash Table
@@ -35,6 +36,7 @@
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # String
@@ -96,6 +98,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 # Tree
 |  |
 | ------- |
