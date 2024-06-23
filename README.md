@@ -24,6 +24,7 @@
 | [0229-majority-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 
 
 # Hash Table
@@ -112,11 +113,13 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0502-ipo) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Sliding Window
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Tree
 |  |
 | ------- |
@@ -138,3 +141,15 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
