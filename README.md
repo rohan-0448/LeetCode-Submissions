@@ -25,6 +25,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 
 
 # Hash Table
@@ -96,6 +97,7 @@
 | [0525-contiguous-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -144,6 +147,7 @@
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -153,3 +157,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
