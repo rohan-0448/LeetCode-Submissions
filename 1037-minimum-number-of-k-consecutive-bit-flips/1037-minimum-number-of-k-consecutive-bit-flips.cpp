@@ -1,19 +1,19 @@
 class Solution {
 public:
     int minKBitFlips(vector<int>& nums, int k) {
-        int l = 0, n = nums.size(), ans = 0, isflipped = 0;
+        int i = 0, n = nums.size(), c = 0, isflipped = 0;
         
-        while(l<n){
-            if(l>=k && nums[l-k]==2) isflipped--;
-            if(nums[l]==(isflipped%2)){
-                if(l+k>n) return -1;
+        while(i<n){
+            if(i>=k && nums[i-k]==7) isflipped--;
+            if(nums[i]==(isflipped%2)){
+                if(i+k > n) return -1;
                 isflipped++;
-                ans++;
-                nums[l]= 2;
+                c++;
+                nums[i]= 7;
             }
-            l++;
+            i++;
         }
-        
-        return ans;
+
+        return c;
     }
 };
