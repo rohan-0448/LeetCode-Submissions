@@ -127,10 +127,12 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Matrix
 |  |
 | ------- |
@@ -161,3 +164,7 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
