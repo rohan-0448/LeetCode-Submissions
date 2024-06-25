@@ -26,6 +26,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [0162-find-peak-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 
 
 # Hash Table
@@ -167,4 +168,5 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
