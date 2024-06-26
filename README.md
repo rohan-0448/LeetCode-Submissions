@@ -56,6 +56,7 @@
 | [0853-most-profit-assigning-work](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1285-balance-a-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Two Pointers
 |  |
 | ------- |
@@ -129,11 +131,13 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -144,6 +148,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Matrix
 |  |
 | ------- |
@@ -170,3 +175,4 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
