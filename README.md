@@ -176,3 +176,7 @@
 | [0162-find-peak-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1916-find-center-of-star-graph) |
