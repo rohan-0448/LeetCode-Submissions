@@ -8,7 +8,6 @@ public:
         }
         
         vector<long long> vec;
-        for(auto i: mp) cout << i.first << " " << i.second << endl;
         for(auto i: mp) vec.push_back(i.second); 
         sort(vec.begin(), vec.end());
         
