@@ -1,11 +1,12 @@
 class Solution {
 public:
     vector<int> findDuplicates(vector<int>& nums) {
-        unordered_map<int, int> mp;
         vector<int> ans;
         for(auto i: nums) {
-            mp[i]++;
-            if(mp[i] == 2) ans.push_back(i);
+            if(nums[abs(i)-1] < 0) ans.push_back(abs(i));
+            nums[abs(i)-1] *= -1; 
+            // for(auto j: nums) cout << j << " ";
+            // cout << endl;
         }
         return ans;
     }
