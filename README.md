@@ -231,4 +231,8 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
