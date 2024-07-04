@@ -235,4 +235,12 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0201-bitwise-and-of-numbers-range) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
