@@ -15,12 +15,13 @@ public:
         ListNode* temp = new ListNode(0);
         ListNode* cpy = temp;
         while(head != NULL){
-            if(head->val == 0) {
-                temp->next = new ListNode(sum);
-                temp = temp->next;
-                sum = 0; 
+            while(head->val != 0){
+                sum += head->val;
+                head = head->next;
             }
-            sum += head->val;
+            temp->next = new ListNode(sum);
+            temp = temp->next;
+            sum = 0;
             head = head->next;
         }
         return cpy->next->next;
