@@ -24,7 +24,7 @@ public:
             ind++;
             head = head->next;
         }
-        if(ans.empty() || ans.size()==1) return {-1, -1};
+        if(ans.size()<2) return {-1, -1};
         for(auto i: ans) cout << i << " ";
         if(minn == INT_MAX) return {ans[ans.size()-1]-ans[0], ans[ans.size()-1]-ans[0]};
         return {minn, ans[ans.size()-1]-ans[0]};
