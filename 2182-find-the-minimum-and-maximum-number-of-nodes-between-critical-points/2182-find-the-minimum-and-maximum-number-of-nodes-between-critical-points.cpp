@@ -11,7 +11,6 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        if(head == NULL || head->next == NULL || head->next->next == NULL) return {-1 ,-1};
         int prev = 0, ind = 2, minn = INT_MAX;
         vector<int> ans;
         
