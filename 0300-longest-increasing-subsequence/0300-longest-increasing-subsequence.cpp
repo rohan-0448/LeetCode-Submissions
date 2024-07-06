@@ -1,21 +1,42 @@
 class Solution {
 public:
-    
-    int f(vector<int> &nums, vector<vector<int>> &dp, int index, int last_index){
-        if(index == nums.size()){
-            return 0;
-        }
-        if(dp[index][last_index+1] != -1) return dp[index][last_index+1];
-        
-        int len = f(nums, dp, index+1, last_index);
-        if(last_index == -1 || nums[last_index] < nums[index]){
-            len = max(len, 1 + f(nums, dp, index+1, index));
-        }
-        return dp[index][last_index+1] = len;
-    }
-        
     int lengthOfLIS(vector<int>& nums) {
-        vector<vector<int>> dp(nums.size(), vector<int>(nums.size()+1, -1));
-        return f(nums, dp, 0, -1);
+        int n = nums.size();
+
+        vector<int>dp(n,1e8);
+        multiset<int>ms;
+
+        for(int i=0;i<n;i++){
+            int id = lower_bound(dp.begin(),dp.end(),nums[i])-dp.begin();
+
+            dp[id] = nums[i];
+
+        }
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(dp[i]!=1e8) ans = i+1;
+        }
+
+        return ans;
     }
 };
+
+// class Solution {
+// public:
+
+//     void check(vector<int>& nums, int index, int& maxx, int size, int prev){
+//         if(index == nums.size()) {
+//             maxx = max(maxx, size);
+//             return;
+//         }
+
+//         if(prev == -1001 || prev < nums[index]) check(nums, index+1, maxx, size+1, nums[index]);
+//         check(nums, index+1, maxx, size, prev);
+//     }
+
+//     int lengthOfLIS(vector<int>& nums) {
+//         int maxx = INT_MIN;
+//         check(nums, 0, maxx, 0, -1001);
+//         return maxx;
+//     }
+// };
