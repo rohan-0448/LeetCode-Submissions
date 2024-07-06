@@ -209,6 +209,7 @@
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -216,6 +217,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -252,9 +254,19 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
