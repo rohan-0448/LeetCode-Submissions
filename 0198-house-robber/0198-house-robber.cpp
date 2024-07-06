@@ -14,7 +14,26 @@ public:
     }
 
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);
-        return check(nums, nums.size()-1, dp);
+        int n = nums.size();
+
+        if(n == 2) return max(nums[0], nums[1]);
+        if(n == 1) return nums[0]; 
+        
+        int prev = nums[0], prev2 = nums[1], curr = 0;
+
+        for(int i=1; i<n; i++){
+            int take = nums[i];
+            if(i>1) take += prev2;
+            int not_take = prev;
+
+            curr = max(take, not_take);
+
+            prev2 = prev;
+            prev = curr;
+        }
+
+        return curr;
+
+        // return check(nums, n-1, dp);
     }
 };
