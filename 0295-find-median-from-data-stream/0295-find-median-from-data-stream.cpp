@@ -8,8 +8,8 @@ public:
     void addNum(int num) {
         auto it = lower_bound(nums.begin(), nums.end(), num);
         nums.insert(it, num);
-        for(auto i: nums) cout << i << " ";
-        cout << endl;
+        // for(auto i: nums) cout << i << " ";
+        // cout << endl;
         // if(nums.empty()) nums.push_back(num);
         // else{
         //     int left = 0, right = nums.size()-1;
