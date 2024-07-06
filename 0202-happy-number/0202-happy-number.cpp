@@ -11,7 +11,7 @@ public:
             cout << sum << endl;
             n = sum;
             c++;
-            if(c > 100) return false;
+            if(c > 50) return false;
         }
         return true;
     }
