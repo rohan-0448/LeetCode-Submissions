@@ -214,6 +214,7 @@
 | ------- |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0383-ransom-note) |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
