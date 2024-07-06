@@ -19,7 +19,7 @@ public:
         if(n == 2) return max(nums[0], nums[1]);
         if(n == 1) return nums[0]; 
         
-        int prev = nums[0], prev2 = nums[1], curr = 0;
+        int prev = nums[0], prev2 = 0, curr = 0;
 
         for(int i=1; i<n; i++){
             int take = nums[i];
