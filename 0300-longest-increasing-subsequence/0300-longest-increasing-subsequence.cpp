@@ -1,20 +1,13 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-
+        int n = nums.size(), ans = 0;
         vector<int>dp(n,1e8);
-
         for(int i=0;i<n;i++){
             int id = lower_bound(dp.begin(),dp.end(),nums[i])-dp.begin();
-
             dp[id] = nums[i];
-
         }
-        int ans=0;
-        for(int i=0;i<n;i++){
-            if(dp[i]!=1e8) ans = i+1;
-        }
+        for(int i=0;i<n;i++) if(dp[i]!=1e8) ans = i+1;
 
         return ans;
     }
