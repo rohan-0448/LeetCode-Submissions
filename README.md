@@ -257,6 +257,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
+| [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -332,6 +333,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0857-positions-of-large-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0857-positions-of-large-groups) |
+| [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 ## Trie
 |  |
 | ------- |
