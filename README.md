@@ -233,6 +233,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
+| [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
@@ -302,6 +303,7 @@
 | [0198-house-robber](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 ## Memoization
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [0383-ransom-note](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 ## Trie
 |  |
 | ------- |
