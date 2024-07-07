@@ -284,6 +284,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
+| [0866-rectangle-overlap](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0866-rectangle-overlap) |
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
@@ -400,4 +401,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
