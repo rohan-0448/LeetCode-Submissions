@@ -185,6 +185,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -235,6 +236,7 @@
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
