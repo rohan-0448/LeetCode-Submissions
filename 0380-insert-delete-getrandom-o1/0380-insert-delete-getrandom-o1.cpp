@@ -11,7 +11,7 @@ public:
         // for(auto i: mp) cout << i.first << "-" << i.second << ", ";
         // cout << endl;
 
-        if(mp.find(val) == mp.end() || mp[val] == 0) {
+        if(mp[val] == 0) {
             mp[val]++;
             size++;
             return true;
@@ -24,14 +24,11 @@ public:
         // for(auto i: mp) cout << i.first << "-" << i.second << ", ";
         // cout << endl;
 
-        if(mp.find(val) != mp.end()){
-            if(mp[val]){
-                mp[val]--;
-                size--;
-                return true;
-            }
+        if(mp[val]){
+            mp[val]--;
+            size--;
+            return true;
         }
-        mp[val]=0;
         return false;
     }
     
