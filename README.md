@@ -311,6 +311,7 @@
 | [0290-word-pattern](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Trie
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -354,13 +357,20 @@
 ## Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
