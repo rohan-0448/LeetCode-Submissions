@@ -214,6 +214,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -241,6 +242,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0202-happy-number) |
