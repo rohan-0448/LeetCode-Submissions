@@ -1,40 +1,53 @@
 class RandomizedSet {
 public:
-    unordered_map<int, bool> mp;
+    unordered_map<int, int> mp;
     int size = 0;
     RandomizedSet() {
         ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
     }
     
     bool insert(int val) {
-        if(mp[val] == false) {
-            mp[val] = true;
-            size++;
-        }
-        else return false;
+        // cout << "before insert" << endl;
+        // for(auto i: mp) cout << i.first << "-" << i.second << ", ";
+        // cout << endl;
 
-        return true;
+        if(mp.find(val) == mp.end() || mp[val] == 0) {
+            mp[val]++;
+            size++;
+            return true;
+        }
+        return false;
     }
     
     bool remove(int val) {
-        if(mp[val] == true) {
-            mp[val] = false;
-            size--;
-        }
-        else return false;
+        // cout << "before remove" << endl;
+        // for(auto i: mp) cout << i.first << "-" << i.second << ", ";
+        // cout << endl;
 
-        return true;
+        if(mp.find(val) != mp.end()){
+            if(mp[val]){
+                mp[val]--;
+                size--;
+                return true;
+            }
+        }
+        mp[val]=0;
+        return false;
     }
     
     int getRandom() {
-        int a = rand() % size;
+        // cout << "before random" << endl;
+        // for(auto i: mp) cout << i.first << "-" << i.second << ", ";
+        // cout << endl;
+
+        int t = rand() % size+1;
         for(auto i: mp){
             if(i.second){
-                if(a == 0) return i.first;
-                else a--;
+                t-=i.second;
+                if(t<=0) return i.first;
             }
         }
-        return 0;
+        return -1;
     }
 };
 
