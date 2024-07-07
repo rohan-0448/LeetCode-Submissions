@@ -228,6 +228,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
@@ -242,6 +243,7 @@
 | [0242-valid-anagram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -266,6 +268,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Data Stream
 |  |
 | ------- |
@@ -338,4 +342,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
