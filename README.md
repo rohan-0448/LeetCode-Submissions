@@ -230,6 +230,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
@@ -270,6 +271,7 @@
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
