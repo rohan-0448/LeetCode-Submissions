@@ -185,6 +185,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -237,6 +238,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
