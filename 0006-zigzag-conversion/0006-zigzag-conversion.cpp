@@ -7,7 +7,7 @@ public:
         int in = (n-1)*2;
         for(int i=0; i<m; i+=in) ans += s[i];
 
-        cout << ans << endl;
+        // cout << ans << endl;
 
         for(int i=1; i<n-1; i++){
             int temp = i;
@@ -17,7 +17,7 @@ public:
                 if(temp+c<m) ans+=s[temp+c];
                 temp+=in;
             }
-            cout << ans << endl;
+            // cout << ans << endl;
         }
         for(int i=n-1; i<m; i+=in) ans += s[i];
         
