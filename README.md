@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Union Find
@@ -366,10 +367,12 @@
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
 | ------- |
@@ -402,6 +405,7 @@
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
@@ -409,11 +413,13 @@
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
