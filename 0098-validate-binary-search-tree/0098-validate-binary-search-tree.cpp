@@ -36,12 +36,20 @@ public:
         check(root->right, vec);
     }
 
+    bool isbst(TreeNode* root, long left, long right){
+        if(root == NULL) return true;
+        if(root->val >= right || root->val <= left) return false;
+
+        return isbst(root->left, left, root->val) && isbst(root->right, root->val, right);
+    }
+
     bool isValidBST(TreeNode* root) {
-        vector<int> vec;
-        check(root, vec);
-        for(int i=1; i<vec.size(); i++){
-            if(vec[i]<=vec[i-1]) return false;
-        }
-        return true;
+        return isbst(root, LONG_MIN, LONG_MAX);
+        // vector<int> vec;
+        // check(root, vec);
+        // for(int i=1; i<vec.size(); i++){
+        //     if(vec[i]<=vec[i-1]) return false;
+        // }
+        // return true;
     }
 };
