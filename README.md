@@ -405,6 +405,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -413,6 +414,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -420,6 +422,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -429,6 +432,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0904-leaf-similar-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
