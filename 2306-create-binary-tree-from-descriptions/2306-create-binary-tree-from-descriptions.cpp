@@ -27,14 +27,8 @@ public:
             children.insert(child);
         }
 
-        TreeNode* root = nullptr;
-        for(auto& node : mp) {
-            if(children.find(node.first) == children.end()) {
-                root = node.second;
-                break;
-            }
-        }
-
-        return root;
+        TreeNode* root = NULL;
+        for(auto i : mp) if(children.find(i.first) == children.end()) return i.second;
+        return NULL;
     }
 };
