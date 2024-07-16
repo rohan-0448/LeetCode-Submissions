@@ -480,5 +480,6 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
