@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -203,6 +204,7 @@
 | [0242-valid-anagram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -244,6 +246,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
+| [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -271,6 +274,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
+| [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
