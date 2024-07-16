@@ -477,4 +477,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
