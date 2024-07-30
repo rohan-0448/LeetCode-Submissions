@@ -359,6 +359,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2577-count-palindromic-subsequences](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2577-count-palindromic-subsequences) |
 ## Memoization
 |  |
@@ -382,6 +383,7 @@
 | [0857-positions-of-large-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0857-positions-of-large-groups) |
 | [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 | [1156-occurrences-after-bigram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1156-occurrences-after-bigram) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 | [2577-count-palindromic-subsequences](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2577-count-palindromic-subsequences) |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Breadth-First Search
 |  |
 | ------- |
