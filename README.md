@@ -213,6 +213,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -267,6 +268,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
@@ -315,12 +317,14 @@
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
