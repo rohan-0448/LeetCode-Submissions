@@ -6,16 +6,15 @@ public:
         //     if(!k) return arr[i];
         // }
         // return "";
-        unordered_map<string, int> freq;
-        for(auto i: arr) freq[i]++;
+        unordered_map<string, int> mp;
+        for(auto i: arr) mp[i]++;
 
         // for(auto i: freq) cout << i.first << "-" << i.second << " ";
         // cout << endl;
-
         for(auto i: arr) {
-            if(freq[i]==1){
+            if(mp[i]==1){
                 k--;
-                if(k == 0) return i;
+                if(k==0) return i;
             }
         }
         return "";
