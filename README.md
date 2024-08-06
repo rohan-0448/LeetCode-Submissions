@@ -191,6 +191,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -405,6 +408,7 @@
 | [2577-count-palindromic-subsequences](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2577-count-palindromic-subsequences) |
 | [2727-number-of-senior-citizens](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
 |  |
@@ -429,6 +433,7 @@
 | [0169-majority-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
