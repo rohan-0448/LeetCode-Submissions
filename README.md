@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -265,6 +266,7 @@
 | [0898-transpose-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1127-last-stone-weight](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1127-last-stone-weight) |
@@ -305,6 +307,7 @@
 | [0870-magic-squares-in-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
+| [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -452,6 +455,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Sliding Window
 |  |
@@ -514,6 +518,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0904-leaf-similar-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0904-leaf-similar-trees) |
+| [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -529,6 +534,7 @@
 | [0870-magic-squares-in-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Geometry
