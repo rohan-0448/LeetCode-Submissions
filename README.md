@@ -279,6 +279,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -311,6 +312,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
@@ -412,6 +414,7 @@
 | [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 | [1156-occurrences-after-bigram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1156-occurrences-after-bigram) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
@@ -527,6 +530,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
