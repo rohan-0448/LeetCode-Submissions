@@ -398,6 +398,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -423,6 +424,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
+| [0664-strange-printer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0664-strange-printer) |
 | [0857-positions-of-large-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0857-positions-of-large-groups) |
 | [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 | [1156-occurrences-after-bigram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1156-occurrences-after-bigram) |
