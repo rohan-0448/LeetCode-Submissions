@@ -471,6 +471,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Breadth-First Search
 |  |
@@ -500,6 +501,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -523,6 +525,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -538,6 +541,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0904-leaf-similar-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0904-leaf-similar-trees) |
