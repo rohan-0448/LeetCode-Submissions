@@ -395,6 +395,7 @@
 | [1803-average-waiting-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
@@ -443,6 +444,7 @@
 | [1547-destination-city](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1547-destination-city) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
