@@ -372,6 +372,7 @@
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0564-find-the-closest-palindrome](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0866-rectangle-overlap](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0866-rectangle-overlap) |
@@ -448,6 +449,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
+| [0564-find-the-closest-palindrome](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0664-strange-printer) |
 | [0857-positions-of-large-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0857-positions-of-large-groups) |
 | [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
