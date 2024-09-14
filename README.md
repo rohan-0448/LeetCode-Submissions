@@ -305,6 +305,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -397,6 +398,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
 |  |
 | ------- |
@@ -653,6 +655,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
