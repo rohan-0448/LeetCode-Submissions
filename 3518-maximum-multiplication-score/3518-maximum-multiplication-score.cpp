@@ -1,0 +1,19 @@
+class Solution {
+public:
+    long long dp(vector<int> &a, vector<int>& b,int i1,int i2,vector<vector<long long int>>& v){
+        if(i1==a.size()) return 0;
+        if(i2>=b.size()) return -1e9;
+
+        if(v[i1][i2]!=-1) return v[i1][i2];
+
+        long long int take=(long long)a[i1]*(long long)b[i2]+ dp(a, b, i1+1, i2+1, v);
+        long long int not_take=dp(a, b, i1, i2+1, v);
+
+        return v[i1][i2]=max(take, not_take);
+    }
+
+    long long maxScore(vector<int>& a, vector<int>& b) {
+        vector<vector<long long int>> v(4,vector<long long int>(b.size(),-1));
+        return dp(a, b, 0, 0, v);
+    }
+};
