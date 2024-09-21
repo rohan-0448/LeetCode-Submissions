@@ -489,6 +489,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
 ## Design
 |  |
 | ------- |
@@ -588,6 +589,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0904-leaf-similar-trees) |
