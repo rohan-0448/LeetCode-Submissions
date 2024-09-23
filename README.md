@@ -490,6 +490,7 @@
 | [0014-longest-common-prefix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Design
 |  |
 | ------- |
