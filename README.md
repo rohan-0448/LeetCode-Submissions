@@ -295,6 +295,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
@@ -342,6 +343,7 @@
 | [1547-destination-city](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
@@ -701,6 +703,7 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Segment Tree
 |  |
