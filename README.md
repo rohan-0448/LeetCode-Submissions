@@ -192,6 +192,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -369,6 +370,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -488,6 +490,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -536,6 +539,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Breadth-First Search
 |  |
 | ------- |
