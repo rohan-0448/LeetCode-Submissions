@@ -298,6 +298,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1547-destination-city](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1547-destination-city) |
@@ -501,6 +502,7 @@
 | [1156-occurrences-after-bigram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1156-occurrences-after-bigram) |
 | [1197-parsing-a-boolean-expression](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1547-destination-city](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1547-destination-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -526,6 +528,7 @@
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Design
 |  |
 | ------- |
@@ -646,6 +649,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
