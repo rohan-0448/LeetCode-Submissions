@@ -328,6 +328,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2727-number-of-senior-citizens) |
@@ -586,6 +587,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -620,6 +622,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -646,6 +649,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -666,6 +670,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Backtracking
 |  |
 | ------- |
