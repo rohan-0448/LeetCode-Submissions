@@ -519,6 +519,7 @@
 | [0567-permutation-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0857-positions-of-large-groups) |
 | [0889-buddy-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -805,4 +806,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
