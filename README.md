@@ -537,6 +537,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
