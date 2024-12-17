@@ -446,6 +446,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
@@ -466,6 +467,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0899-binary-gap) |
@@ -488,6 +490,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
@@ -538,6 +541,7 @@
 | [0006-zigzag-conversion](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
