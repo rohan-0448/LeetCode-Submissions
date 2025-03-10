@@ -493,6 +493,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -795,6 +796,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
