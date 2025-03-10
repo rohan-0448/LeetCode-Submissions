@@ -417,6 +417,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
@@ -494,6 +495,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
