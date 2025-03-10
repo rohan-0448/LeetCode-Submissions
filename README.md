@@ -496,6 +496,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
@@ -801,6 +802,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
