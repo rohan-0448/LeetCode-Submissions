@@ -497,6 +497,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
