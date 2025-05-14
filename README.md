@@ -293,6 +293,7 @@
 | [0198-house-robber](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -433,6 +434,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
@@ -450,6 +452,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
@@ -493,6 +496,7 @@
 | [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0287-find-the-duplicate-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1054-complement-of-base-10-integer) |
