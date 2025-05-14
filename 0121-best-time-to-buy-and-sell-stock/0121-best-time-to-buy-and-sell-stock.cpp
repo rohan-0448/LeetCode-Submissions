@@ -8,7 +8,7 @@ public:
                 int temp = prices[i] - min_v;
                 if(temp > max_p){
                     max_p = temp;
-                } 
+                }
             }
         }
         return max_p;
