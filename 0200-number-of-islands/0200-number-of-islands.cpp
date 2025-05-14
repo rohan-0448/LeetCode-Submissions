@@ -1,6 +1,5 @@
 class Solution {
-public:
-    
+public:    
     void change(vector<vector<char>> &grid, int x, int y){
         grid[x][y] = '0';
         if(x!=0 && grid[x-1][y] == '1') change(grid, x-1, y);
