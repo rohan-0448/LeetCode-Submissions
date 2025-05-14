@@ -1,23 +1,11 @@
 class Solution {
 public:
-    // Floyd's Tortoise and Hare algorithm
     int findDuplicate(vector<int>& nums) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
-        int slow = nums[0], fast = nums[0];
-        do {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-        } while(slow!=fast);
-        
-        
-        slow = nums[0];
-        while(slow!=fast){
-            slow = nums[slow];
-            fast = nums[fast];
+        unordered_map<int, int> mp;
+        for(auto i: nums){
+            mp[i]++;
+            if(mp[i]==2) return i;
         }
-        
-        return slow;
+        return 0;
     }
 };
