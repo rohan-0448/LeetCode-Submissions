@@ -474,6 +474,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0089-gray-code) |
@@ -553,6 +554,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -948,4 +950,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2201-valid-arrangement-of-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
