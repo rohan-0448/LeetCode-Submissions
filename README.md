@@ -308,6 +308,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
@@ -398,6 +399,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
@@ -918,6 +920,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
