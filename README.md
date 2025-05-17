@@ -282,6 +282,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0056-merge-intervals) |
@@ -441,6 +442,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -565,6 +567,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0062-unique-paths) |
@@ -690,6 +693,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
@@ -967,6 +971,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
