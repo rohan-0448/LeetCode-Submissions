@@ -10,35 +10,90 @@
  */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* temp = new ListNode(0);
-        ListNode* head = temp;
-        int carry = 0;
-        while(l1!=NULL && l2!=NULL){
-            int curr = l1->val+l2->val;
-            temp->next = new ListNode((curr + carry) % 10);
-            if(curr+carry > 9) carry = 1;
+    ListNode* addTwoNumbers(ListNode* list1, ListNode* list2) {
+        ListNode* head = new ListNode(0);
+        ListNode* temp = head;
+
+        int carry = 0, sum = 0;
+        while(list1 && list2){
+            sum = list1->val + list2->val + carry;
+            if(sum>9){
+                carry = sum/10;
+                sum = sum%10;
+            }
             else carry = 0;
+            temp->next = new ListNode(sum);
             temp = temp->next;
-            l1 = l1->next;
-            l2 = l2->next;
+            list1 = list1->next;
+            list2 = list2->next;
         }
-        while(l1 != NULL){
-            temp -> next = new ListNode((l1->val + carry)%10);
-            if(l1->val+carry == 10) carry = 1;
+
+        while(list1){
+            sum = list1->val+carry;
+            if(sum>9){
+                carry = sum/10;
+                sum = sum%10;
+            }
             else carry = 0;
-            l1 = l1->next;
+            temp->next = new ListNode(sum);
             temp = temp->next;
+            list1 = list1->next;
         }
-        while(l2 != NULL){
-            temp -> next = new ListNode((l2->val + carry)%10);
-            if(l2->val+carry == 10) carry = 1;
-            else carry = 0;
-            l2 = l2->next;
+
+        while(list2){
+            sum = list2->val+carry;
+            if(sum>9){
+                carry = sum/10;
+                sum = sum%10;
+            }else carry = 0;
+            temp->next = new ListNode(sum);
             temp = temp->next;
+            list2 = list2->next;
         }
-        if(carry) temp->next = new ListNode(carry);
-        return head -> next;
+
+        if(carry){
+            temp->next = new ListNode(carry);
+        }
+
+        return head->next;
+
+
+
+
+
+
+
+
+
+
+        // ListNode* temp = new ListNode(0);
+        // ListNode* head = temp;
+        // int carry = 0;
+        // while(l1!=NULL && l2!=NULL){
+        //     int curr = l1->val+l2->val;
+        //     temp->next = new ListNode((curr + carry) % 10);
+        //     if(curr+carry > 9) carry = 1;
+        //     else carry = 0;
+        //     temp = temp->next;
+        //     l1 = l1->next;
+        //     l2 = l2->next;
+        // }
+        // while(l1 != NULL){
+        //     temp -> next = new ListNode((l1->val + carry)%10);
+        //     if(l1->val+carry == 10) carry = 1;
+        //     else carry = 0;
+        //     l1 = l1->next;
+        //     temp = temp->next;
+        // }
+        // while(l2 != NULL){
+        //     temp -> next = new ListNode((l2->val + carry)%10);
+        //     if(l2->val+carry == 10) carry = 1;
+        //     else carry = 0;
+        //     l2 = l2->next;
+        //     temp = temp->next;
+        // }
+        // if(carry) temp->next = new ListNode(carry);
+        // return head -> next;
         
         
         
