@@ -308,6 +308,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -570,6 +571,7 @@
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -701,6 +703,7 @@
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -829,6 +832,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0861-flipping-an-image](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
