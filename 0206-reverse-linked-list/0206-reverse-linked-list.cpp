@@ -13,14 +13,15 @@ public:
     ListNode* reverseList(ListNode* head) {
         ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
         if(!head) return head;
-        ListNode* prev = NULL, *next2 = head->next;
-        while(next2 != NULL){
-            head -> next = prev;
-            prev = head;
-            head = next2;
-            next2 = next2 -> next;
+
+        ListNode *prev = NULL, *temp = head, *nxt = head->next;
+        while(nxt){
+            temp->next = prev;
+            prev = temp;
+            temp = nxt;
+            nxt = nxt->next;
         }
-        head -> next = prev;
-        return head;
+        temp->next = prev;
+        return temp;
     }
 };
