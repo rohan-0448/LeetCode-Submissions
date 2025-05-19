@@ -251,6 +251,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -385,6 +386,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -509,6 +511,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
+| [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
