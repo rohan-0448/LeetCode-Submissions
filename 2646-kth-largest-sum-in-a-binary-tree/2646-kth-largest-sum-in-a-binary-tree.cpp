@@ -11,22 +11,31 @@
  */
 class Solution {
 public:
-    void check(TreeNode* root, int level, vector<long long> &vec){
-        if(root == NULL) return;
-
-        if(level >= vec.size()) vec.push_back(0);
-        vec[level] += root->val;
-
-        check(root->right, level+1, vec);
-        check(root->left, level+1, vec);
-    }
-
     long long kthLargestLevelSum(TreeNode* root, int k) {
-        vector<long long> vec;
-        check(root, 0, vec);
+        vector<long long> level_sum;
+        
+        queue<pair<TreeNode*, int>> q;
+        q.push({root, 0});
+        
+        while(!q.empty()){
+            TreeNode* node = q.front().first;
+            int level = q.front().second;
+            q.pop();
 
-        if(k > vec.size()) return -1;
-        sort(vec.begin(), vec.end());
-        return vec[vec.size()-k];
+            if(level_sum.size() <= level) level_sum.push_back(0);
+            level_sum[level] += node->val;
+
+            if(node->right) q.push({node->right, level+1});
+            if(node->left) q.push({node->left, level+1});
+        }
+
+        priority_queue<long long, vector<long long>, greater<long long>> pq;
+        for(auto i: level_sum){
+            pq.push(i);
+            if(pq.size()>k) pq.pop();
+        }
+
+        if(pq.size() == k) return pq.top();
+        else return -1;
     }
 };
