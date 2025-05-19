@@ -210,6 +210,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -724,6 +725,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1073-number-of-enclaves) |
@@ -830,6 +832,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -946,6 +949,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Indexed Tree
 |  |
