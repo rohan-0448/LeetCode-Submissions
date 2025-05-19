@@ -9,14 +9,23 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+/*
+traversing the tree - queue data structure
+Level sum - for each level in the tree - store it in a vector / set (distinct)
+n = size(level_sum), if k>n return -1
+sort(level_sum) - last element will be 1st largest - kth largest element - [n-k]
+priority_queue - distinct, largest, min-heap
+*/
+
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
         vector<long long> level_sum;
-        
+
         queue<pair<TreeNode*, int>> q;
         q.push({root, 0});
-        
+
         while(!q.empty()){
             TreeNode* node = q.front().first;
             int level = q.front().second;
@@ -39,3 +48,5 @@ public:
         else return -1;
     }
 };
+
+
