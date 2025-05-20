@@ -1,13 +1,7 @@
 class Solution {
 public:
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
-        int n = nums.size();
-        int sum = 0;
-        // vector<int> presum(n, 0);
-        // for(int i=0; i<n; i++){
-        //     sum += nums[i];
-        //     presum[i] = sum;
-        // }
+        int n = nums.size(), sum = 0;
 
         vector<int> changes(n+1, 0);
         for(auto i: queries){
@@ -22,6 +16,5 @@ public:
             if(sum<nums[i]) return false;
         }
         return true;
-        // return (accumulate(nums.begin(), nums.end(), 0) == 0);
     }
 };
