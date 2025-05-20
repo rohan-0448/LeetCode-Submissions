@@ -392,6 +392,7 @@
 | [3427-special-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3639-zero-array-transformation-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -968,6 +969,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Segment Tree
 |  |
 | ------- |
