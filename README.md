@@ -400,6 +400,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
@@ -501,6 +502,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
@@ -619,6 +621,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
