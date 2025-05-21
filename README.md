@@ -293,6 +293,7 @@
 | [0053-maximum-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -399,6 +400,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -864,6 +866,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
