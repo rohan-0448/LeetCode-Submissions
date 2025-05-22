@@ -230,6 +230,7 @@
 | [0056-merge-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
@@ -463,6 +464,7 @@
 | [0088-merge-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
@@ -552,6 +554,7 @@
 | [0061-rotate-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -762,6 +765,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0948-sort-an-array) |
@@ -928,6 +932,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
