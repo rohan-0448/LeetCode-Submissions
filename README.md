@@ -527,6 +527,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 | [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
@@ -913,6 +914,7 @@
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
