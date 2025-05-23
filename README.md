@@ -218,6 +218,7 @@
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -623,6 +624,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2554-minimum-total-distance-traveled) |
 | [2577-count-palindromic-subsequences](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -984,6 +986,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -992,6 +995,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Indexed Tree
 |  |
