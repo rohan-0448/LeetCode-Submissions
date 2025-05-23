@@ -212,6 +212,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0744-network-delay-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0948-sort-an-array) |
@@ -758,6 +760,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
+| [0744-network-delay-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0999-regions-cut-by-slashes) |
@@ -868,6 +871,7 @@
 | [0386-lexicographical-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0744-network-delay-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
@@ -984,6 +988,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
