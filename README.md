@@ -304,6 +304,7 @@
 | [0039-combination-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0056-merge-intervals) |
@@ -911,6 +912,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
