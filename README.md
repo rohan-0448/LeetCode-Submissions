@@ -529,6 +529,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
@@ -949,6 +950,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
