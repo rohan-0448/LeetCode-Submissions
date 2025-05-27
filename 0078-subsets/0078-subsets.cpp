@@ -1,22 +1,22 @@
 class Solution {
 public:
-    
-    void recur(vector<vector<int>> &ans, vector<int> &temp, vector<int> &nums, int index){
-        if(find(ans.begin(), ans.end(), temp) == ans.end()) ans.push_back(temp);
-        if(index == nums.size()) return;
-        
-        // take
+    void recursive(int index, vector<int> temp, vector<int> &nums, vector<vector<int>>& ans){
+        if(index == nums.size()) {
+            ans.push_back(temp);
+            return;
+        }
+
+        // not take - temp not updated, only index is updated
+        recursive(index+1, temp, nums, ans);
+        // take - temp updated - and index updated
         temp.push_back(nums[index]);
-        recur(ans, temp, nums, index+1);
-        // not take
-        temp.pop_back();
-        recur(ans, temp, nums, index+1);
+        recursive(index+1, temp, nums, ans);
     }
-    
+
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
-        vector<int> temp;
-        recur(ans, temp, nums, 0);
+        recursive(0, {}, nums, ans);
+
         return ans;
     }
 };
