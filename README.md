@@ -619,6 +619,7 @@
 | [0070-climbing-stairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -657,6 +658,7 @@
 | [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0242-valid-anagram) |
@@ -909,6 +911,7 @@
 | [0040-combination-sum-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
