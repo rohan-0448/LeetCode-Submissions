@@ -1,35 +1,28 @@
 class Solution {
 public:
-
-    void check(vector<int>& vals, int index, int tar, int curr, vector<int>& temp, vector<vector<int>>& ans){
-        if(index > vals.size() || curr > tar) return;
-        if(tar == curr) ans.push_back(temp);
-
-        for(int i=index; i<vals.size(); i++) {
-            if (i>index && vals[i]==vals[i-1]) continue;
-            if (curr + vals[i] > tar) break;
-            
-            temp.push_back(vals[i]);            
-            check(vals, i + 1, tar, curr + vals[i], temp, ans);
-            temp.pop_back();
+    void recursive(int index, int length, vector<int> temp, vector<int> &candidates, 
+        int sum, int target, vector<vector<int>> &st){
+        
+        if(sum == target) {
+            st.push_back(temp);
+            return;
         }
 
-        // if(index != vals.size() && curr+vals[index] <= tar) {
-        //     temp.push_back(vals[index]);
-        //     check(vals, index+1, tar, curr+vals[index], temp, ans);
-        //     temp.pop_back();
-        // }
-
-        // check(vals, index+1, tar, curr, temp, ans);
+        for(int i=index; i<length; i++) {
+            if(i > index && candidates[i] == candidates[i-1]) continue;
+            if(sum + candidates[i] <= target) {
+                temp.push_back(candidates[i]);
+                recursive(i+1, length, temp, candidates, sum + candidates[i], target, st);
+                temp.pop_back();
+            }
+        }
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> temp;
-        
+        vector<vector<int>> st;
         sort(candidates.begin(), candidates.end());
-        check(candidates, 0, target, 0, temp, ans);
-        
-        return ans;
+
+        recursive(0, candidates.size(), {}, candidates, 0, target, st);
+        return st;
     }
 };
