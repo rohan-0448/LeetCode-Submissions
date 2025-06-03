@@ -1,39 +1,35 @@
 class Solution {
 public:
+    int recur(int ind, vector<int> &nums, vector<int> &dp) {
+        if(ind == -1) return 0;
+        if(ind == 0) return nums[0];
 
-    int check(vector<int>& nums, int index, vector<int>& dp){
-        if(index==0) return nums[0];
-        if(index<0) return 0;
+        if(dp[ind] != -1) return dp[ind];
 
-        if(dp[index] != -1) return dp[index];
+        int take = nums[ind] + recur(ind-2, nums, dp);
+        int not_take = recur(ind-1, nums, dp);
 
-        int take = nums[index] + check(nums, index-2, dp);
-        int not_take = check(nums, index-1, dp);
-
-        return dp[index] = max(take, not_take);
+        return dp[ind] = max(take, not_take);
     }
 
     int rob(vector<int>& nums) {
         int n = nums.size();
+        if(n == 0) return 0;
+        if(n == 1) return nums[0];
 
-        if(n == 2) return max(nums[0], nums[1]);
-        if(n == 1) return nums[0]; 
-        
-        int prev = nums[0], prev2 = 0, curr = 0;
+        vector<int> dp(n, -1);
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
 
-        for(int i=1; i<n; i++){
-            int take = nums[i];
-            if(i>1) take += prev2;
-            int not_take = prev;
+        for(int i=2; i<n; i++) {
+            int take = dp[i-2] + nums[i];
+            int not_take = dp[i-1];
 
-            curr = max(take, not_take);
-
-            prev2 = prev;
-            prev = curr;
+            dp[i] = max(take, not_take);
         }
 
-        return curr;
+        return dp[n-1];
 
-        // return check(nums, n-1, dp);
+        // return recur(n-1, nums, dp); // take curr and move n-2, or not take curr and move n-1
     }
 };
