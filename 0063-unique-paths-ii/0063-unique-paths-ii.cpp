@@ -1,38 +1,21 @@
 class Solution {
 public:
-    // Recursion with DP
-    int f(vector<vector<int>> matrix, vector<vector<int>> &dp, int x, int y) {
-        if(matrix[x][y] == 1) return 0;
-        if(x == 0 && y == 0) return 1;
-        if(dp[x][y] != -1) return dp[x][y];
-        
+    int count_paths(int r, int c, vector<vector<int>>& grid, vector<vector<int>>& dp) {
+        if(r == 0 && c == 0) return 1;
+        if(dp[r][c] != -1) return dp[r][c];
+
         int top = 0, left = 0;
-        if(x > 0) top = f(matrix, dp, x-1, y);        
-        if(y > 0) left = f(matrix, dp, x, y-1);
-        
-        return dp[x][y] = top + left;
+
+        if(r > 0 && grid[r-1][c] == 0) top = count_paths(r-1, c, grid, dp);
+        if(c > 0 && grid[r][c-1] == 0) left = count_paths(r, c-1, grid, dp);
+
+        return dp[r][c] = top + left;
     }
-    
+
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m = obstacleGrid.size(), n = obstacleGrid[0].size();
-        vector<vector<int>> dp(m, vector<int> (n, -1));
-        
-        // Tabulation Method
-        for(int x = 0; x < m; x++){
-            for(int y = 0; y < n; y++){
-                if(obstacleGrid[x][y] == 1) dp[x][y] = 0;
-                else if(x == 0 && y == 0) dp[x][y] = 1;
-                else {
-                    int top = 0, left = 0;
-                    if(x > 0) top = dp[x-1][y];
-                    if(y > 0) left = dp[x][y-1];
-                    
-                    dp[x][y] = top + left;
-                }
-            }
-        }
-        
-        return abs(dp[m-1][n-1]);
-        // return f(obstacleGrid, dp, m-1, n-1);
+        int r = obstacleGrid.size(), c = obstacleGrid[0].size();
+        if(obstacleGrid[r-1][c-1] == 1) return 0;
+        vector<vector<int>> dp(r, vector<int> (c, -1));
+        return count_paths(r-1, c-1, obstacleGrid, dp);
     }
 };
