@@ -347,6 +347,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -777,6 +778,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1098,6 +1100,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
