@@ -1,28 +1,32 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& a) {
+        stack<int> st;
+
         int n = a.size();
-        vector<int>v(n,-1);
-
-        stack<int>st;
-        for(int i = 2*n - 1; i >= 0; i--)
-        {
-            // we pop out all elements smaller than current element
-            while(!st.empty() && (a[i%n] >= st.top()))
-            {
-                st.pop();
+        vector<int> gt(10005, -1);
+        for(int i=(2*n)-1; i>=0; i--) {
+            if(i == (2*n)-1) {
+                st.push(a[i%n]);
+                gt[i%n] = -1;
             }
+            else {
+                while(!st.empty() && st.top() <= a[i%n]) st.pop();
 
-            // if stack is empty means no greater element is there
-            // if not empty we make answer at that index equal to top element
-            if(!st.empty() && (i < n))
-            {
-                v[i] = st.top();
+                if(st.empty()) {
+                    st.push(a[i%n]);
+                    gt[i%n] = -1;
+                }
+                else {
+                    gt[i%n] = st.top();
+                    st.push(a[i%n]);
+                }
             }
-
-            st.push(a[i%n]);
         }
 
-        return v;
+        vector<int> ans;
+        for(int i=0; i<n; i++) ans.push_back(gt[i]);
+
+        return ans;
     }
 };
