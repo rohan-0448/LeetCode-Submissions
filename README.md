@@ -486,6 +486,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -732,6 +733,7 @@
 | [3451-string-compression-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
 | ------- |
@@ -771,6 +773,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
