@@ -4,18 +4,18 @@ public:
         int ind = -1, mx = INT_MIN, n = nums.size(), val = INT_MIN, sum = 0;
         for(int i=0; i<nums.size(); i++){
             if(nums[i] > mx){
-                mx = nums[i];
-                ind = i;
+                mx = nums[i]; // found max element
+                ind = i; // found max element index
             }
         }
 
-        for(int i = 0; i<ind; i++){
-            val = max(val, min(nums[i], nums[ind]));
-            if(i!=0) sum += (val-nums[i]);
+        for(int i = 0; i<ind; i++){ // 0 till mx index
+            val = max(val, nums[i]); // check if there is some left side wall we can use
+            if(i!=0) sum += (val-nums[i]); // add the diff in wall and curr hgt
         }
         val = INT_MIN;
-        for(int i=n-1; i>ind; i--){
-            val = max(val, min(nums[i], nums[ind]));
+        for(int i=n-1; i>ind; i--){ // n-1 till mx index
+            val = max(val, nums[i]);
             if(i!=n-1) sum += (val-nums[i]);
         }
 
