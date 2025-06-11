@@ -443,6 +443,7 @@
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
@@ -599,6 +600,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
@@ -749,6 +751,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
@@ -1137,4 +1140,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
