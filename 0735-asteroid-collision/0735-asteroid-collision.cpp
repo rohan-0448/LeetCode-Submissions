@@ -7,16 +7,25 @@ public:
         for(int i=0; i<n; i++) {
             int cur = asteroids[i]; // 8 -8
 
-            if(!st.empty() && cur < 0 && st.top() >= 0) {
-                while(!st.empty() && st.top() >= 0 && abs(cur) > st.top()) st.pop();
-                
-                if(!st.empty() && st.top() >= 0 && st.top() == abs(cur)) st.pop();
-                else if(!st.empty() && st.top() < abs(cur)) st.push(cur);
-                else if(st.empty()) st.push(cur);
-            }
+            if(cur >= 0) st.push(cur);
             else {
-                st.push(cur);
+                while(!st.empty() && st.top() >= 0 && abs(cur) > st.top()) st.pop();
+            
+                if(!st.empty() && st.top() == abs(cur)) st.pop();
+                else if(st.empty() || st.top() < 0) st.push(cur);
+                // else if(st.empty()) st.push(cur);
             }
+
+            // if(!st.empty() && cur < 0 && st.top() >= 0) {
+            //     while(!st.empty() && st.top() >= 0 && abs(cur) > st.top()) st.pop();
+                
+            //     if(!st.empty() && st.top() >= 0 && st.top() == abs(cur)) st.pop();
+            //     else if(!st.empty() && st.top() < abs(cur)) st.push(cur);
+            //     else if(st.empty()) st.push(cur);
+            // }
+            // else {
+            //     st.push(cur);
+            // }
             // while(!st.empty() && cur < 0 && st.top() >= 0) {
             //         // st.pop();
             //         // collide the two
