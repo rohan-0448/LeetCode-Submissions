@@ -11,19 +11,13 @@
  */
 class Solution {
 
-    void check(TreeNode* root, int len, int &mx){
-        if(root == NULL) {
-            mx = max(mx, len);
-            return;
-        }
-        check(root->right, len+1, mx);
-        check(root->left, len+1, mx);
+    int height(TreeNode* root){
+        if(!root) return 0;
+        return 1 + max(height(root->left), height(root->right));
     }
 
 public:
     int maxDepth(TreeNode* root) {
-        int mx = 0;
-        check(root, 0, mx);
-        return mx;
+        return height(root);
     }
 };
