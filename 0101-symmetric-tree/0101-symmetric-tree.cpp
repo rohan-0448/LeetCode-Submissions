@@ -9,17 +9,17 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
-    bool isMirror(TreeNode* a, TreeNode* b){
+    bool symmetry(TreeNode* a, TreeNode* b) {
         if(a == NULL && b == NULL) return true;
-        if(a == NULL || b == NULL) return false;
+        if((a == NULL && b != NULL) || (a != NULL && b == NULL)) return false;
+        if(a ->val != b->val) return false;
 
-        return (a->val == b->val) && isMirror(a->left, b->right) && isMirror(a->right, b->left);
+        return symmetry(a->right, b->left) && symmetry(a->left, b->right);
     }
-    bool isSymmetric(TreeNode* root) {
-        if(root == NULL) return true;
-        return isMirror(root->right, root->left);
+
+    bool isSymmetric(TreeNode* root) { 
+        return symmetry(root->left, root->right);
     }
 };
