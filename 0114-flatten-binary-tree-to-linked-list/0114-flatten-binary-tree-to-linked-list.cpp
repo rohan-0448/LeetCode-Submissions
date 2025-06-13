@@ -11,21 +11,33 @@
  */
 class Solution {
 public:
+    void recur(TreeNode* root, TreeNode* &prev) {
+        if(root == NULL) return;
+
+        recur(root->right, prev);
+        recur(root->left, prev);
+
+        root->right = prev;
+        root->left = NULL;
+        prev = root;
+    }
+
     void flatten(TreeNode* root) {
         if(!root) return;
+        TreeNode* prev = NULL;
+        recur(root, prev);
+        // stack<TreeNode*> st;
+        // st.push(root);
 
-        stack<TreeNode*> st;
-        st.push(root);
+        // while(!st.empty()) {
+        //     TreeNode* curr = st.top();
+        //     st.pop();
 
-        while(!st.empty()) {
-            TreeNode* curr = st.top();
-            st.pop();
+        //     if(curr -> right) st.push(curr -> right);
+        //     if(curr -> left) st.push(curr -> left);
 
-            if(curr -> right) st.push(curr -> right);
-            if(curr -> left) st.push(curr -> left);
-
-            if(!st.empty()) curr -> right = st.top();
-            curr -> left = NULL;
-        }
+        //     if(!st.empty()) curr -> right = st.top();
+        //     curr -> left = NULL;
+        // }
     }
 };
