@@ -327,6 +327,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0200-number-of-islands) |
@@ -527,6 +528,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
