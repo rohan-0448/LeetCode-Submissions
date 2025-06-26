@@ -318,6 +318,7 @@
 | [0075-sort-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
@@ -525,6 +526,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
