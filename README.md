@@ -254,6 +254,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2502-sort-the-people) |
@@ -281,6 +282,7 @@
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -409,6 +411,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -481,6 +484,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
