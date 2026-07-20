@@ -387,6 +387,7 @@
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1386-shift-2d-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1386-shift-2d-grid) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1547-destination-city](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1547-destination-city) |
@@ -636,6 +637,7 @@
 | [0898-transpose-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
+| [1386-shift-2d-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1386-shift-2d-grid) |
 | [1803-average-waiting-time](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1034,6 +1036,7 @@
 | [1073-number-of-enclaves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1073-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1386-shift-2d-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1386-shift-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [2089-maximum-matrix-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
