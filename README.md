@@ -442,6 +442,7 @@
 | [3639-zero-array-transformation-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -588,6 +589,7 @@
 | [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -607,6 +609,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1169,6 +1172,7 @@
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
