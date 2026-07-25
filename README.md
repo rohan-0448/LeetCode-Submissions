@@ -267,6 +267,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+| [3859-maximum-product-of-two-digits](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -590,6 +591,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
