@@ -268,6 +268,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -771,6 +772,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -1113,6 +1115,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0948-sort-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
 | ------- |
