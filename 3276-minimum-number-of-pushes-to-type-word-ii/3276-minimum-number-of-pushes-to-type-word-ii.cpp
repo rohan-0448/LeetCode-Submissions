@@ -2,23 +2,23 @@ class Solution {
 public:
     int minimumPushes(string word) {
         unordered_map<char, int> mp;
-        for(auto i: word) mp[i]++;
+        for(auto &i: word) mp[i]++;
 
-        priority_queue<pair<int, char>> pq;
-        for(auto i: mp) pq.push({i.second, i.first});
+        priority_queue<int> pq;
+        for(auto &[x, y]: mp) pq.push(y);
+        
+        int c = 0, ans = 0, p = 1;
 
-        int total = 0, curr = 1;
-        while(!pq.empty()){
-            int tmp = 8;
-            while(!pq.empty() && tmp--){
-                int top_frq = pq.top().first;
-                pq.pop();
-
-                total += top_frq*curr;
+        while(!pq.empty()) {
+            ans += pq.top() * p;
+            pq.pop();
+            c++;
+            if(c == 8) {
+                p++;
+                c = 0;
             }
-            curr++;
         }
 
-        return total;
+        return ans;
     }
 };
