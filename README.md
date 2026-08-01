@@ -352,6 +352,7 @@
 | [0455-assign-cookies](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0457-circular-array-loop) |
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
@@ -577,6 +578,7 @@
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -682,6 +684,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0542-01-matrix) |
@@ -1071,6 +1074,7 @@
 | [0206-reverse-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
@@ -1124,6 +1128,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Shortest Path
 |  |
