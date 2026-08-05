@@ -879,6 +879,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3561-remove-methods-from-project](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3561-remove-methods-from-project) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1027,6 +1028,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3561-remove-methods-from-project](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3561-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -1236,4 +1238,8 @@
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
