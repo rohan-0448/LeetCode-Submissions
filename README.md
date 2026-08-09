@@ -390,6 +390,7 @@
 | [1127-last-stone-weight](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -590,6 +591,7 @@
 | [0870-magic-squares-in-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0909-stone-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
@@ -696,6 +698,7 @@
 | [0664-strange-printer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
+| [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
@@ -1138,6 +1141,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Shortest Path
@@ -1168,6 +1172,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
@@ -1233,10 +1238,12 @@
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
 ## Graph Theory
 |  |
