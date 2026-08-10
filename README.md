@@ -593,6 +593,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
@@ -702,6 +703,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1143,6 +1145,7 @@
 | [0909-stone-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Shortest Path
 |  |
@@ -1240,13 +1243,23 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3561-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
