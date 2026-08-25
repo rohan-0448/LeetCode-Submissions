@@ -444,6 +444,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3427-special-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -671,6 +672,7 @@
 | [2411-spiral-matrix-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
