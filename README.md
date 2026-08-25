@@ -451,6 +451,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
