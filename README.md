@@ -209,6 +209,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Graph
 |  |
 | ------- |
@@ -512,6 +513,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -791,6 +793,7 @@
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -833,6 +836,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -1208,6 +1212,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
