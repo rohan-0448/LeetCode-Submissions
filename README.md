@@ -201,6 +201,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -424,6 +425,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
