@@ -458,6 +458,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -519,6 +520,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -637,6 +639,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -901,6 +904,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3561-remove-methods-from-project) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1090,6 +1094,7 @@
 | [2411-spiral-matrix-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
 | ------- |
