@@ -460,6 +460,7 @@
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -619,6 +620,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3859-maximum-product-of-two-digits) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
