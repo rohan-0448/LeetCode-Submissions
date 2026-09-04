@@ -617,6 +617,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3859-maximum-product-of-two-digits) |
@@ -1226,6 +1227,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
