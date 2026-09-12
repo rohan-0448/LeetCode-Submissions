@@ -270,6 +270,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3859-maximum-product-of-two-digits) |
@@ -454,6 +455,7 @@
 | [3427-special-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3639-zero-array-transformation-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -581,6 +583,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [3427-special-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3427-special-array-ii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -737,6 +740,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
