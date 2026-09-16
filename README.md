@@ -612,6 +612,7 @@
 | [1240-stone-game-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
@@ -729,6 +730,7 @@
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1215,6 +1217,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1268,6 +1271,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0062-unique-paths) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Quickselect
 |  |
 | ------- |
