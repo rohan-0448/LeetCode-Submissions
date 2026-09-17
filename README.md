@@ -405,6 +405,7 @@
 | [1547-destination-city](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -502,6 +503,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1547-destination-city](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -575,6 +577,7 @@
 | [0731-my-calendar-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -729,6 +732,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1522-stone-game-iii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1617-stone-game-iv](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1617-stone-game-iv) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -926,6 +930,7 @@
 | [0567-permutation-in-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0940-fruit-into-baskets) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
