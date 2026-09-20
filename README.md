@@ -697,6 +697,7 @@
 | [2645-pass-the-pillow](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -819,6 +820,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
