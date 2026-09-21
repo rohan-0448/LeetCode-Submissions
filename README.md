@@ -461,6 +461,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -627,6 +628,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3831-find-x-value-of-array-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3859-maximum-product-of-two-digits) |
 | [4245-count-commas-in-range](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/4248-count-commas-in-range-ii) |
@@ -749,6 +751,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3831-find-x-value-of-array-i](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3831-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
