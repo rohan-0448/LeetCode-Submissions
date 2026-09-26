@@ -1,22 +1,24 @@
 class Solution {
 public:
-    void recursive(int index, vector<int> temp, vector<int> &nums, vector<vector<int>>& ans){
+    vector<vector<int>> res;
+    
+    void solve(vector<int> &nums, int index, vector<int> curr) {
         if(index == nums.size()) {
-            ans.push_back(temp);
+            res.push_back(curr);
             return;
         }
 
-        // not take - temp not updated, only index is updated
-        recursive(index+1, temp, nums, ans);
-        // take - temp updated - and index updated
-        temp.push_back(nums[index]);
-        recursive(index+1, temp, nums, ans);
+        // not take
+        solve(nums, index+1, curr);
+        // take
+        curr.push_back(nums[index]);
+        solve(nums, index+1, curr);
+
+        curr.pop_back();
     }
-
+    
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        recursive(0, {}, nums, ans);
-
-        return ans;
+        solve(nums, 0, {});
+        return res;
     }
 };
