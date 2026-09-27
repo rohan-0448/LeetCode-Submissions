@@ -803,6 +803,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1156-occurrences-after-bigram](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1156-occurrences-after-bigram) |
 | [1197-parsing-a-boolean-expression](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -901,6 +902,7 @@
 | [1002-maximum-width-ramp](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1336,4 +1338,8 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
