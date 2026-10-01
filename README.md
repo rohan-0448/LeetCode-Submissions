@@ -774,6 +774,7 @@
 | [0006-zigzag-conversion](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
@@ -886,6 +887,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1341,5 +1343,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohan-0448/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
